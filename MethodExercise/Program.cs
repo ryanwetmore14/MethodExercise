@@ -1,6 +1,8 @@
 ﻿
-using System;
 
+
+
+using System;
 
 namespace MethodExercise
 {
@@ -19,6 +21,14 @@ namespace MethodExercise
 
             Console.WriteLine("Cool! now which cars do you enjoy the most!");
             string car = Console.ReadLine();
+
+            Console.WriteLine($"Thanks {userName}, here is your profile!");
+            Console.WriteLine("-----------------------------------");
+
+            Console.WriteLine($"name: {userName}");
+            Console.WriteLine($"Favorite color: {color}");
+            Console.WriteLine($"Favorite animal: {animal}");
+            Console.WriteLine($"Favorite car: {car}");
         }
     }
 }
