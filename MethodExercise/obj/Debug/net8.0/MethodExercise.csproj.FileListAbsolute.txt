@@ -1,0 +1,15 @@
+C:\Users\ryanw\OneDrive\Desktop\repos\MethodExercise\MethodExercise\bin\Debug\net8.0\MethodExercise.exe
+C:\Users\ryanw\OneDrive\Desktop\repos\MethodExercise\MethodExercise\bin\Debug\net8.0\MethodExercise.deps.json
+C:\Users\ryanw\OneDrive\Desktop\repos\MethodExercise\MethodExercise\bin\Debug\net8.0\MethodExercise.runtimeconfig.json
+C:\Users\ryanw\OneDrive\Desktop\repos\MethodExercise\MethodExercise\bin\Debug\net8.0\MethodExercise.dll
+C:\Users\ryanw\OneDrive\Desktop\repos\MethodExercise\MethodExercise\bin\Debug\net8.0\MethodExercise.pdb
+C:\Users\ryanw\OneDrive\Desktop\repos\MethodExercise\MethodExercise\obj\Debug\net8.0\MethodExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanw\OneDrive\Desktop\repos\MethodExercise\MethodExercise\obj\Debug\net8.0\MethodExercise.AssemblyInfoInputs.cache
+C:\Users\ryanw\OneDrive\Desktop\repos\MethodExercise\MethodExercise\obj\Debug\net8.0\MethodExercise.AssemblyInfo.cs
+C:\Users\ryanw\OneDrive\Desktop\repos\MethodExercise\MethodExercise\obj\Debug\net8.0\MethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\ryanw\OneDrive\Desktop\repos\MethodExercise\MethodExercise\obj\Debug\net8.0\MethodExercise.sourcelink.json
+C:\Users\ryanw\OneDrive\Desktop\repos\MethodExercise\MethodExercise\obj\Debug\net8.0\MethodExercise.dll
+C:\Users\ryanw\OneDrive\Desktop\repos\MethodExercise\MethodExercise\obj\Debug\net8.0\refint\MethodExercise.dll
+C:\Users\ryanw\OneDrive\Desktop\repos\MethodExercise\MethodExercise\obj\Debug\net8.0\MethodExercise.pdb
+C:\Users\ryanw\OneDrive\Desktop\repos\MethodExercise\MethodExercise\obj\Debug\net8.0\MethodExercise.genruntimeconfig.cache
+C:\Users\ryanw\OneDrive\Desktop\repos\MethodExercise\MethodExercise\obj\Debug\net8.0\ref\MethodExercise.dll
